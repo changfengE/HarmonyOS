@@ -1,2 +1,2 @@
 # HarmonyOS
-HarmonyOS logo
+logo
